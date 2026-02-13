@@ -1,0 +1,8 @@
+{
+  "name": "PACKED - AI Fashion PLM",
+  "description": "A comprehensive fashion ideation and production platform bridging the gap between design and manufacturing using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
